@@ -5,7 +5,7 @@
 - 🌱 Estou estudando Java
 - 👯 Ela/Dela | She/Her
 
-<div align="center">
+<div>
   <a href="https://github.com/vgflauzino">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vgflauzino&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgflauzino&layout=compact&langs_count=7&theme=aura_dark"/>
