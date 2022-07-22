@@ -20,6 +20,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordm
   <img align="center" alt="Vic-Ph" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Vic-Ai" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
   <img align="center" alt="Vic-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="right" alt="Vic-pic" height="160" src="https://cdn.discordapp.com/attachments/793958517097627688/999849527890673724/download20220704222439.png">
 </div>
 
 
