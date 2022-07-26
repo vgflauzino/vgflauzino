@@ -1,14 +1,14 @@
 ### Olá!! Sou a Victória Flauzino...
 
 
-- 🔭 Atualmente sou Analista de Suporte
-- 🌱 Estou estudando Java
-- 👯 Ela/Dela | She/Her
+- 👩‍💻 Atualmente sou Analista de Suporte
+- 🐧 Estudando Java e UX Design
+- ♀️ Ela/Dela | She/Her
 
 <div>
   <a href="https://github.com/vgflauzino">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=vgflauzino&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgflauzino&layout=compact&langs_count=7&theme=aura_dark"/>
+  <img width="150em" src="https://github-readme-stats.vercel.app/api?username=vgflauzino&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img width="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgflauzino&layout=compact&langs_count=7&theme=aura_dark"/>
 </div>
 
 <div style="display: inline_block"><br>
