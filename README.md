@@ -5,12 +5,12 @@
 - 🐧 Estudando Java e UX Design
 - ♀️ Ela/Dela | She/Her
 
-<div style="width:80%">
+<div align="center">
 
   <a href="https://github.com/vgflauzino">
-  <img width="50%" src=
+  <img height="170em" width = "400" src=
   "https://github-readme-stats.vercel.app/api?username=vgflauzino&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img width="50%" src=
+  <img height="170em" width = "400" src=
   "https://github-readme-stats.vercel.app/api/top-langs/?username=vgflauzino&layout=compact&langs_count=7&theme=aura_dark"/>
   
 </div>
